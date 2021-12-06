@@ -1,0 +1,12 @@
+.bg-primarys {
+  background-color: #27283d;
+  /* height: 90vh; */
+}
+.resume {
+}
+.resume a {
+  text-decoration: none;
+  background-color: salmon;
+  padding: 10px;
+  border-radius: 5px;
+}
