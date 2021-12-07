@@ -15,9 +15,9 @@ function App() {
       <Topbar></Topbar>
       <Banner></Banner>
       <About></About>
-      <Skils></Skils>
       <HowWork></HowWork>
      <Project></Project>
+      <Skils></Skils>
       <Contact></Contact>
       <Footer></Footer>
     </div>

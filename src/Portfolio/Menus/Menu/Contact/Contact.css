@@ -1,3 +1,7 @@
 .contact {
   width: 500px !important;
+  border-radius: 20px;
+}
+.background {
+  background: #27283d;
 }
