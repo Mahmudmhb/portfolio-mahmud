@@ -24,7 +24,7 @@ const Topbar = () => {
       </div>
       <div class="offcanvas-body text-center">
        <div>
-            <img src={profile} width="380px" alt="" />
+            <img className="img-fluid" src={profile} width="380px" alt="" />
             
             <h2>Mahmudul Hasan</h2>
             <div className="topbar d-flex justify-content-evenly">

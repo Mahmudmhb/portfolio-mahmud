@@ -43,7 +43,7 @@ const Project = () => {
                     </div>
                           
                     <div className="d-flex  justify-content-around pb-3 ">
-                                    <a href="https://github.com/Mahmudmhb/simple-watch" class="btn btn-primary">CLIND CODE</a>
+                                    <a href="https://github.com/Mahmudmhb/simple-watch" class="btn btn-primary">CLIENT CODE</a>
                                     <a href="https://github.com/Mahmudmhb/simple-watch-server" class="btn btn-primary">SERVER CODE</a>
                             </div>
                     </div>
@@ -68,7 +68,7 @@ const Project = () => {
                     </div>
                           
                     <div className="d-flex  justify-content-around pb-3">
-                                    <a href="https://github.com/Mahmudmhb/bangladesh-tour-web" class="btn btn-primary">CLIND CODE</a>
+                                    <a href="https://github.com/Mahmudmhb/bangladesh-tour-web" class="btn btn-primary">CLIENT CODE</a>
                                     <a href="https://github.com/Mahmudmhb/bangladesh-tour-server" class="btn btn-primary">SERVER CODE</a>
                             </div>
                     </div>
@@ -92,7 +92,7 @@ const Project = () => {
                     </div>
                           
                     <div className="d-flex  justify-content-around pb-3 ">
-                                    <a href="https://github.com/Mahmudmhb/simple-halthcare-web" class="btn btn-primary">CLIND CODE</a>
+                                    <a href="https://github.com/Mahmudmhb/simple-halthcare-web" class="btn btn-primary">CLIENT CODE</a>
                                     <a href="*" class="btn btn-primary">SERVER CODE</a>
                             </div>
                     </div>
